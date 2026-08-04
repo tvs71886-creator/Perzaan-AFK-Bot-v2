@@ -5,8 +5,8 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "pandeji567.aternos.me:",
+  "server": {"ip": "pandeji567.aternos.me:
+    57613",
     "port":57613,
     "version": "1.21.11"
   },
